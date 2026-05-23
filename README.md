@@ -31,63 +31,6 @@ SustainaBite was developed to address this issue by transforming surplus food in
 
 ---
 
-# 💡 Solution Overview
-
-SustainaBite is a Flutter-based mobile application that connects food businesses with consumers willing to purchase quality surplus food at discounted prices.
-
-The platform enables businesses to:
-- Reduce unnecessary food disposal
-- Recover operational costs
-- Increase visibility of surplus meals
-
-Consumers benefit by:
-- Purchasing affordable meals
-- Supporting sustainability efforts
-- Reducing environmental impact through food rescue
-
-By redistributing edible surplus food instead of discarding it, the application helps:
-- Reduce food wastage
-- Lower carbon emissions
-- Promote sustainable consumption habits
-- Extend the lifespan of Singapore’s landfill
-
----
-
-# ✨ Core Features
-
-## 🥗 Browse Surplus Meals
-- View available food items in real-time
-- Display food images, prices, availability, and sustainability impact
-
-## 🔍 Advanced Search & Filtering
-Implemented Firestore queries including:
-- Prefix search by food name
-- Filter by category
-- Filter by maximum discounted price
-- Multi-category filtering
-- Price sorting
-- Aggregation queries
-
-## 💳 Integrated NETS QR Payment
-- Real-time NETS QR payment system
-- Payment confirmation flow with success/failure states
-
-## 🏪 CRUD Operations for Businesses
-Food businesses can:
-- Add food listings
-- Edit listings
-- Delete listings
-- Update prices and quantities
-
-## 🎨 Personalisation
-Users can customise the application theme using multiple colour themes.
-
-## 🌍 Sustainability Awareness
-- Display estimated CO₂ savings for rescued meals
-- Encourage environmentally responsible purchasing decisions
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
@@ -131,6 +74,63 @@ Users can customise the application theme using multiple colour themes.
 <p align="center">
   <img src="SustainaBite-App.png" alt="SustainaBite Preview" width="85%">
 </p>
+
+---
+
+# ✨ Core Features
+
+## 🥗 Browse Surplus Meals
+- View available food items in real-time
+- Display food images, prices, availability, and sustainability impact
+
+## 🔍 Advanced Search & Filtering
+Implemented Firestore queries including:
+- Prefix search by food name
+- Filter by category
+- Filter by maximum discounted price
+- Multi-category filtering
+- Price sorting
+- Aggregation queries
+
+## 💳 Integrated NETS QR Payment
+- Real-time NETS QR payment system
+- Payment confirmation flow with success/failure states
+
+## 🏪 CRUD Operations for Businesses
+Food businesses can:
+- Add food listings
+- Edit listings
+- Delete listings
+- Update prices and quantities
+
+## 🎨 Personalisation
+Users can customise the application theme using multiple colour themes.
+
+## 🌍 Sustainability Awareness
+- Display estimated CO₂ savings for rescued meals
+- Encourage environmentally responsible purchasing decisions
+
+---
+
+# 💡 Solution Overview
+
+SustainaBite is a Flutter-based mobile application that connects food businesses with consumers willing to purchase quality surplus food at discounted prices.
+
+The platform enables businesses to:
+- Reduce unnecessary food disposal
+- Recover operational costs
+- Increase visibility of surplus meals
+
+Consumers benefit by:
+- Purchasing affordable meals
+- Supporting sustainability efforts
+- Reducing environmental impact through food rescue
+
+By redistributing edible surplus food instead of discarding it, the application helps:
+- Reduce food wastage
+- Lower carbon emissions
+- Promote sustainable consumption habits
+- Extend the lifespan of Singapore’s landfill
 
 ---
 
